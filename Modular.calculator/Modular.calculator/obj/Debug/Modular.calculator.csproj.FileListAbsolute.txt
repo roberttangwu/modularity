@@ -1,0 +1,7 @@
+C:\Users\1328718\Desktop\Modular.calculator\Modular.calculator\bin\Debug\Modular.calculator.exe.config
+C:\Users\1328718\Desktop\Modular.calculator\Modular.calculator\bin\Debug\Modular.calculator.exe
+C:\Users\1328718\Desktop\Modular.calculator\Modular.calculator\bin\Debug\Modular.calculator.pdb
+C:\Users\1328718\Desktop\Modular.calculator\Modular.calculator\obj\Debug\Modular.calculator.csprojAssemblyReference.cache
+C:\Users\1328718\Desktop\Modular.calculator\Modular.calculator\obj\Debug\Modular.calculator.csproj.CoreCompileInputs.cache
+C:\Users\1328718\Desktop\Modular.calculator\Modular.calculator\obj\Debug\Modular.calculator.exe
+C:\Users\1328718\Desktop\Modular.calculator\Modular.calculator\obj\Debug\Modular.calculator.pdb
